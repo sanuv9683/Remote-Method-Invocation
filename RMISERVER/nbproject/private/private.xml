@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/RMISERVER/src/dao/custom/impl/CustomerDAOImpl.java</file>
+            <file>file:/var/www/html/RMISERVER/src/dao/custom/impl/ItemDAOImpl.java</file>
+            <file>file:/var/www/html/RMISERVER/src/dao/custom/impl/OrderDAOImpl.java</file>
+            <file>file:/var/www/html/RMISERVER/src/dao/custom/impl/QueryDAOImpl.java</file>
+            <file>file:/var/www/html/RMISERVER/src/dao/custom/impl/OrderDetailsDAOImpl.java</file>
+            <file>file:/var/www/html/RMISERVER/src/business/custom/impl/PurchaseOrderBOImpl.java</file>
+            <file>file:/var/www/html/RMISERVER/src/business/custom/PurchaseOrderBO.java</file>
+            <file>file:/var/www/html/RMISERVER/src/business/custom/impl/CustomerBOImpl.java</file>
+            <file>file:/var/www/html/RMISERVER/src/business/custom/impl/ItemBOImpl.java</file>
+            <file>file:/var/www/html/RMISERVER/src/service/custom/impl/ItemServiceImpl.java</file>
+            <file>file:/var/www/html/RMISERVER/src/service/custom/impl/CustomerServiceImpl.java</file>
+            <file>file:/var/www/html/RMISERVER/src/service/custom/impl/POServiceImpl.java</file>
+            <file>file:/var/www/html/RMISERVER/src/business/BOFactory.java</file>
+            <file>file:/var/www/html/RMISERVER/src/dao/DAOFactory.java</file>
+        </group>
+    </open-files>
+</project-private>
